@@ -1,3 +1,5 @@
+# Implementation of the most basic ML algorithm, a perceptron that tries to
+# distinguish whether cities are on the "left" or "right" side of the Atlantic
 import numpy as np
 import os
 import pandas as pd 
