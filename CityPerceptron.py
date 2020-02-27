@@ -95,6 +95,7 @@ plt.plot(range(1, len(ppn.errors_)+1),
 #Plot training sample
 plt.figure()
 plot_decision_regions(samples, answers, classifier=ppn)
+plt.show()
 
 #Request inputs and identify location in databse
 place = input("Enter the city/town:")

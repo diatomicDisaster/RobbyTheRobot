@@ -1,17 +1,17 @@
 Tokyo;35.685;139.7514;  Japan;1
-New York;40.6943;-73.9249;  United States;-1
-Mexico City;19.4424;-99.131;  Mexico;-1
+New York;40.6943;-73.9249;  United States;0
+Mexico City;19.4424;-99.131;  Mexico;0
 Mumbai;19.017;72.857;  India;1
-São Paulo;-23.5587;-46.625;  Brazil;-1
+São Paulo;-23.5587;-46.625;  Brazil;0
 Delhi;28.67;77.23;  India;1
 Shanghai;31.2165;121.4365;  China;1
 Kolkata;22.495;88.3247;  India;1
-Los Angeles;34.1139;-118.4068;  United States;-1
+Los Angeles;34.1139;-118.4068;  United States;0
 Dhaka;23.7231;90.4086;  Bangladesh;1
-Buenos Aires;-34.6025;-58.3975;  Argentina;-1
+Buenos Aires;-34.6025;-58.3975;  Argentina;0
 Karachi;24.87;66.99;  Pakistan;1
 Cairo;30.05;31.25;  Egypt;1
-Rio de Janeiro;-22.925;-43.225;  Brazil;-1
+Rio de Janeiro;-22.925;-43.225;  Brazil;0
 Ōsaka;34.75;135.4601;  Japan;1
 Beijing;39.9289;116.3883;  China;1
 Manila;14.6042;120.9822;  Philippines;1
@@ -22,12 +22,12 @@ Seoul;37.5663;126.9997;  Korea South;1
 Lagos;6.4433;3.3915;  Nigeria;1
 Jakarta;-6.1744;106.8294;  Indonesia;1
 Guangzhou;23.145;113.325;  China;1
-Chicago;41.8373;-87.6862;  United States;-1
+Chicago;41.8373;-87.6862;  United States;0
 London;51.5;-0.1167;  United Kingdom;1
-Lima;-12.048;-77.0501;  Peru;-1
+Lima;-12.048;-77.0501;  Peru;0
 Tehran;35.6719;51.4243;  Iran;1
 Kinshasa;-4.3297;15.315;  Congo (Kinshasa);1
-Bogotá;4.5964;-74.0833;  Colombia;-1
+Bogotá;4.5964;-74.0833;  Colombia;0
 Shenzhen;22.5524;114.1221;  China;1
 Wuhan;30.58;114.27;  China;1
 Hong Kong;22.305;114.185;  Hong Kong;1
@@ -38,67 +38,67 @@ Bengalūru;12.97;77.56;  India;1
 Bangkok;13.75;100.5166;  Thailand;1
 Lahore;31.56;74.35;  Pakistan;1
 Chongqing;29.565;106.595;  China;1
-Miami;25.7839;-80.2102;  United States;-1
+Miami;25.7839;-80.2102;  United States;0
 Hyderabad;17.4;78.48;  India;1
-Dallas;32.7936;-96.7662;  United States;-1
-Santiago;-33.45;-70.667;  Chile;-1
-Philadelphia;40.0077;-75.1339;  United States;-1
-Belo Horizonte;-19.915;-43.915;  Brazil;-1
+Dallas;32.7936;-96.7662;  United States;0
+Santiago;-33.45;-70.667;  Chile;0
+Philadelphia;40.0077;-75.1339;  United States;0
+Belo Horizonte;-19.915;-43.915;  Brazil;0
 Madrid;40.4;-3.6834;  Spain;1
-Houston;29.7869;-95.3905;  United States;-1
+Houston;29.7869;-95.3905;  United States;0
 Ahmadābād;23.0301;72.58;  India;1
-Ho Chi Minh City;10.78;106.695;  Vietnam;
-Washington;38.9047;-77.0163;  United States;
-Atlanta;33.7627;-84.4225;  United States;
-Toronto;43.7;-79.42;  Canada;
-Singapore;1.293;103.8558;  Singapore;
-Luanda;-8.8383;13.2344;  Angola;
-Baghdad;33.3386;44.3939;  Iraq;
-Barcelona;41.3833;2.1834;  Spain;
-Hāora;22.5804;88.3299;  India;
-Shenyang;41.805;123.45;  China;
-Khartoum;15.5881;32.5342;  Sudan;
-Pune;18.53;73.85;  India;
-Boston;42.3188;-71.0846;  United States;
-Sydney;-33.92;151.1852;  Australia;
-Saint Petersburg;59.939;30.316;  Russia;
-Chittagong;22.33;91.8;  Bangladesh;
-Dongguan;23.0489;113.7447;  China;
-Riyadh;24.6408;46.7727;  Saudi Arabia;
-Hanoi;21.0333;105.85;  Vietnam;
-Guadalajara;20.67;-103.33;  Mexico;
-Melbourne;-37.82;144.975;  Australia;
-Alexandria;31.2;29.95;  Egypt;
-Chengdu;30.67;104.07;  China;
-Rangoon;16.7834;96.1667;  Burma;
-Phoenix;33.5722;-112.0891;  United States;
-Xi’an;34.275;108.895;  China;
-Porto Alegre;-30.05;-51.2;  Brazil;
-Sūrat;21.2;72.84;  India;
-Hechi;23.0965;109.6091;  China;
-Abidjan;5.32;-4.04;  Côte D’Ivoire;
-Brasília;-15.7833;-47.9161;  Brazil;
-Ankara;39.9272;32.8644;  Turkey;
-Monterrey;25.67;-100.33;  Mexico;
-Yokohama;35.32;139.58;  Japan;
-Nanjing;32.05;118.78;  China;
-Montréal;45.5;-73.5833;  Canada;
-Guiyang;26.58;106.72;  China;
-Recife;-8.0756;-34.9156;  Brazil;
-Seattle;47.6211;-122.3244;  United States;
-Harbin;45.75;126.65;  China;
-San Francisco;37.7562;-122.443;  United States;
-Fortaleza;-3.75;-38.58;  Brazil;
-Zhangzhou;24.5204;117.67;  China;
-Detroit;42.3834;-83.1024;  United States;
-Salvador;-12.97;-38.48;  Brazil;
-Busan;35.0951;129.01;  Korea South;
-Johannesburg;-26.17;28.03;  South Africa;
-Berlin;52.5218;13.4015;  Germany;
-Algiers;36.7631;3.0506;  Algeria;
-Rome;41.896;12.4833;  Italy;
-Pyongyang;39.0194;125.7547;  Korea North;
-Medellín;6.275;-75.575;  Colombia;
+Ho Chi Minh City;10.78;106.695;  Vietnam;1
+Washington;38.9047;-77.0163;  United States;0
+Atlanta;33.7627;-84.4225;  United States;0
+Toronto;43.7;-79.42;  Canada;0
+Singapore;1.293;103.8558;  Singapore;1
+Luanda;-8.8383;13.2344;  Angola;1
+Baghdad;33.3386;44.3939;  Iraq;1
+Barcelona;41.3833;2.1834;  Spain;1
+Hāora;22.5804;88.3299;  India;1
+Shenyang;41.805;123.45;  China;1
+Khartoum;15.5881;32.5342;  Sudan;1
+Pune;18.53;73.85;  India;1
+Boston;42.3188;-71.0846;  United States;0
+Sydney;-33.92;151.1852;  Australia;1
+Saint Petersburg;59.939;30.316;  Russia;1
+Chittagong;22.33;91.8;  Bangladesh;1
+Dongguan;23.0489;113.7447;  China;1
+Riyadh;24.6408;46.7727;  Saudi Arabia;1
+Hanoi;21.0333;105.85;  Vietnam;1
+Guadalajara;20.67;-103.33;  Mexico;0
+Melbourne;-37.82;144.975;  Australia;1
+Alexandria;31.2;29.95;  Egypt;1
+Chengdu;30.67;104.07;  China;1
+Rangoon;16.7834;96.1667;  Burma;1
+Phoenix;33.5722;-112.0891;  United States;0
+Xi’an;34.275;108.895;  China;1
+Porto Alegre;-30.05;-51.2;  Brazil;0
+Sūrat;21.2;72.84;  India;1
+Hechi;23.0965;109.6091;  China;1
+Abidjan;5.32;-4.04;  Côte D’Ivoire;1
+Brasília;-15.7833;-47.9161;  Brazil;0
+Ankara;39.9272;32.8644;  Turkey;1
+Monterrey;25.67;-100.33;  Mexico;0
+Yokohama;35.32;139.58;  Japan;1
+Nanjing;32.05;118.78;  China;1
+Montréal;45.5;-73.5833;  Canada;0
+Guiyang;26.58;106.72;  China;1
+Recife;-8.0756;-34.9156;  Brazil;0
+Seattle;47.6211;-122.3244;  United States;0
+Harbin;45.75;126.65;  China;1
+San Francisco;37.7562;-122.443;  United States;0
+Fortaleza;-3.75;-38.58;  Brazil;0
+Zhangzhou;24.5204;117.67;  China;1
+Detroit;42.3834;-83.1024;  United States;0
+Salvador;-12.97;-38.48;  Brazil;0
+Busan;35.0951;129.01;  Korea South;1
+Johannesburg;-26.17;28.03;  South Africa;1
+Berlin;52.5218;13.4015;  Germany;1
+Algiers;36.7631;3.0506;  Algeria;1
+Rome;41.896;12.4833;  Italy;1
+Pyongyang;39.0194;125.7547;  Korea North;1
+Medellín;6.275;-75.575;  Colombia;0
 Kabul;34.5167;69.1833;  Afghanistan;
 Athens;37.9833;23.7333;  Greece;
 Nagoya;35.155;136.915;  Japan;
